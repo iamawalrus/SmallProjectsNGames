@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+#bg{
+    background-image: url(images/sgbgimg.jpg);
+    border: 10px solid green;
+}
+
+
+.contextCanvas
+{   position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
